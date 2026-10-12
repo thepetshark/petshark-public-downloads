@@ -1,0 +1,16 @@
+{
+    "products":  [
+                     {
+                         "id":  "tanks-mate-toon",
+                         "name":  "Tanks Mate 2: Toon Tanks",
+                         "version":  "0.2.30",
+                         "released":  "2026-10-12",
+                         "platform":  "Windows 10 or 11, 64-bit",
+                         "file":  "TanksMateToon-v0.2.30.zip",
+                         "bytes":  109968106,
+                         "sha256":  "d48bc75ea0d96685d4de6cd04349c485c27e6e1de0862238e54686b8bbd5fb1e",
+                         "url":  "https://github.com/thepetshark/petshark-public-downloads/releases/download/tanks-mate-toon-v0.2.30/TanksMateToon-v0.2.30.zip",
+                         "page":  "tanks-mate-toon/README.md"
+                     }
+                 ]
+}
